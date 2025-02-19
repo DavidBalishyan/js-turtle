@@ -19,4 +19,4 @@ color(r,g,b); // choose color. args` r: number, g: number, b: number
 color(color); // args` color: string
 ```
 
-# More at <a href="https://hanumanum.github.io/js-turtle/" target="_blank">Documentation</a>
+# More at <a href="https://hanumanum.github.io/js-turtle/index_en.html" target="_blank">Documentation</a>
