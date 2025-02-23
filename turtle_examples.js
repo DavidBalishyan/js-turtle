@@ -40,7 +40,7 @@ for(let a = 0; a<360; a+=ang){
     forward(2);
 }
 
-colour(0,0,0);
+color(0,0,0);
 // goto(x,y);
 console.log(nodes);
 // drawLine(0,0,-174,184);
@@ -59,4 +59,3 @@ function angToRadian(ang){
     rad = ang*Math.PI/180;
     return rad;
 }
-
