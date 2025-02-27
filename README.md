@@ -31,3 +31,7 @@ strangeCircle(radius) // draws patterned cirlce, by particles. args` radius: num
 strangeGalaxy(radius) // draws patterned "galaxy", by particles. args` radius: number
 ```
 # More at <a href="https://hanumanum.github.io/js-turtle/index_en.html" target="_blank">Documentation</a>
+
+# Bugs!
+color() function is broken
+We will add it in the nest update
